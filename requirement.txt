@@ -1,0 +1,12 @@
+mediapipe
+numpy
+opencv-python
+tensorflow
+keras
+utils 
+streamlit
+streamlit-webrtc 
+
+ 
+
+  
