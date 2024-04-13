@@ -1,5 +1,5 @@
 import streamlit as st
-from streamlit_webrtc 
+import streamlit_webrtc 
 import av
 import cv2
 import numpy as np
