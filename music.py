@@ -1,7 +1,7 @@
 import streamlit as st
 
 
-import cv2 
+import opencv-python 
 import numpy as np 
 import mediapipe as mp 
 from keras.models import load_model
